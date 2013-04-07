@@ -1,4 +1,4 @@
 deal_hunter
 ===========
 
-scrapy crawler
+scrapy crawler for Deals
